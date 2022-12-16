@@ -42,12 +42,10 @@
         In life, there are many people who will mark us for good and bad reasons. At the beginning of winter 2013, my former colleague Xavier is in the «good reason» category. Thanks to his knowledge of PHP and SQL programming languages, he helped me to improve
         my way of working thanks to data extraction programs in the different databases of my sector of activity.
     </p>
-    <br />
-
+    
     <p>
         Unfortunately, he left us to take on other professional challenges. So I had to fend for myself, to understand its tools with at the time rudimentary knowledge of programming languages of all kinds.
     </p>
-    <br />
 
     <p>Quickly, I began to understand very briefly the PHP and the famous trio "Select / From / Where" three super powerful words to make SQL queries.</p>
     <h4>In June 2015, the return to school was not very far...</h4>
@@ -56,8 +54,7 @@
         So I started a period of reflection doing research on what kind of part-time study that I could start. I came to the conclusion that I had to start a certificate in «network and telecommunication» at University of Quebec in Montreal (UQAM). At the time,
         the choice was obvious as I was in this area. I started it in the fall of 2015.
     </p>
-    <br/>
-
+    
     <p>
         At the beginning of the certificate, I had to do several courses of programming before doing the more specialized courses in telecommunications. The more I advanced, the more I realized that, finally, I had some form of logic for programming. During the
         winter 2017 session, I decided to change the certificate for the fall of 2017. I am currently going to do «Computer Science and Software Development».

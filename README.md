@@ -2,7 +2,7 @@
 - 👀 I’m interested in any language...
 - 🌱 I’m currently learning PHP / HTML / CSS / JAVASCRIPT / JQUERY JAVA
 - 💞️ I’m looking to collaborate on few project at my work. Project in web programmaing
-- 📫 How to reach me by email : bémignault@gmail.com
+- 📫 How to reach me by email : b.mignault@gmail.com
 
 <!---
 benoitmignault/benoitmignault is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

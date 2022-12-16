@@ -1,8 +1,17 @@
 - 👋 Hi, I’m @benoitmignault
 - 👀 I’m interested in any language...
-- 🌱 I’m currently learning PHP / HTML / CSS / JAVASCRIPT / JQUERY JAVA
-- 💞️ I’m looking to collaborate on few project at my work. Project in web programmaing
+- 🌱 I’m currently learning PHP / HTML / CSS / JAVASCRIPT / JQUERY
+- 💞️ I’m looking to collaborate on few project at my work in web programmaing and i try to update my web site https://benoitmignault.ca/english/english.html
 - 📫 How to reach me by email : b.mignault@gmail.com
+
+    <h4>Here are the projects that you can find on my website</h4>
+    <ol>
+        <li>https://benoitmignault.ca/timer/timer.php?langue=english</li>
+        <li>https://benoitmignault.ca/login/login.php?langue=english</li>
+        <li>https://benoitmignault.ca/login/createLinkSendMail.php?langue=english</li>
+        <li>https://benoitmignault.ca/login_Organisateur/login_Organisateur.php?langue=english</li>
+        <li>https://benoitmignault.ca/calculatrice/calcul.php?langue=english</li>
+    </ol>
 
     <h4>This is my academic background :</h4>
     <p>

@@ -190,30 +190,29 @@
         </tbody>
     </table>
 
-    <div class="passionResize">
-        <div class="passion">
-            <h4>My sporting passions :</h4>
-            <ul>
-                <li>Golfing</li>
-                <li>Road biking</li>
-                <li>Jogging</li>
-                <li>Skiing and country skiing</li>
-                <li>Badminton</li>
-                <li>Bowling</li>
-            </ul>
-        </div>
-
-        <div class="passion">
-            <h4>My other passions :</h4>
-            <ul>
-                <li>Poker</li>
-                <li>Winter</li>
-                <li>Reading</li>
-                <li>Travel</li>
-                <li>Comedy show and music</li>
-                <li>Museum</li>
-                <li>Theater</li>
-            </ul>
-        </div>
+    <div class="passion">
+        <h4>My sporting passions :</h4>
+        <ul>
+            <li>Golfing</li>
+            <li>Road biking</li>
+            <li>Jogging</li>
+            <li>Skiing and country skiing</li>
+            <li>Badminton</li>
+            <li>Bowling</li>
+        </ul>
     </div>
+
+    <div class="passion">
+        <h4>My other passions :</h4>
+        <ul>
+            <li>Poker</li>
+            <li>Winter</li>
+            <li>Reading</li>
+            <li>Travel</li>
+            <li>Comedy show and music</li>
+            <li>Museum</li>
+            <li>Theater</li>
+        </ul>
+    </div>
+    
     <h3>From this point, you know more about me, enjoy your visit!</h3>

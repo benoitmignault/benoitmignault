@@ -244,7 +244,7 @@
         <h4>My sporting passions :</h4>
         <ul>
             <li>Golfing & amateur competition</li>
-            <li>For information : <a target="_blank" href="[https://cgctour.ca/en/](https://cgctour.ca/)">CGC Tour</a></li>
+            <li>For information : <a href="https://cgctour.ca/">CGC Tour</a></li>
             <li>Road biking</li>
             <li>Jogging</li>
             <li>Skiing and country skiing</li>

@@ -142,7 +142,7 @@
         </tbody>
     </table>
 
-    <h4>Here is my academic profile - Advanced Certificate in Software Development</h4> - <span>Successful !!!</span></h4>
+    <h4>Here is my academic profile - Advanced Certificate in Software Development - <span>Successful !!!</span></h4>
     
     <table class="cheminement">
         <thead>
@@ -220,22 +220,12 @@
         <tr class="info-cours">
             <td class="gauche">Winter 2023</td>
             <td class="nom-cours">Organization, management and information system</td>
-            <td class="gauche">
-                <div>
-                    <div><p class="note">77%</p></div>
-                    <div><p class="note">B+</p></div>
-                </div>
-            </td>
+            <td class="gauche">77% / B+</td>            
         </tr>
         <tr class="info-cours">
             <td class="gauche">Winter 2023</td>
             <td class="nom-cours">Economics of information technology</td>
-            <td class="gauche">
-                <div>
-                    <div><p class="note">77%</p></div>
-                    <div><p class="note">B</p></div>
-                </div>
-            </td>
+            <td class="gauche">77% / B</td>
         </tr>
         <tr class="info-cours">
             <td class="gauche">Fall 2023</td>

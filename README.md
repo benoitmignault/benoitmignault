@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @benoitmignault
 - 👀 I’m interested in any language...
-- 🌱 I’m currently learning PHP / HTML / CSS / JAVASCRIPT / JQUERY / Python / Bash Script Linux
+- 🌱 I’m currently learning PHP / HTML / CSS / JAVASCRIPT / JQUERY / PYTHON / BASH SCRIPT
 - 💞️ I’m looking to collaborate on few project at my work in web programmaing and i try to update my web site https://benoitmignault.ca/english/english.html
 
     <h4>Here are the projects that you can find on my website</h4>

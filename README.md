@@ -235,7 +235,7 @@
         <tr class="info-cours">
             <td class="gauche">Fall 2023</td>
             <td class="nom-cours">Language course - English Pronunciation - Intermediate Level</td>
-            <td class="gauche">B / 79%</td>
+            <td class="gauche">79% / B</td>
         </tr>
         </tbody>
     </table>

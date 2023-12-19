@@ -238,12 +238,13 @@
             <td class="gauche">79% / B</td>
         </tr>
         </tbody>
-    </table>
+    </table>  
     
     <div class="passion">
         <h4>My sporting passions :</h4>
         <ul>
-            <li>Golfing</li>
+            <li>Golfing & amateur competition</li>
+            <li>For information : <a target="_blank" href="https://cgctour.ca/en/">CGC Tour</a></li>
             <li>Road biking</li>
             <li>Jogging</li>
             <li>Skiing and country skiing</li>

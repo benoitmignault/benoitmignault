@@ -193,10 +193,64 @@
             <tr class="newCertificat">
                 <td class="gauche">Fall 2022</td>
                 <td class="nomcours">Software Engineering: Conception</td>
-                <td class="gauche">Pending...</td>
+                <td class="gauche">78% / B</td>
             </tr>
         </tbody>
     </table>
+
+    <h4>Except that during the fall of 2022, I finally decided to transfer all to the real IT BACC...</h4>
+    <p>
+        I started the process to enroll in the « Bachelor's degree in computer science and software engineering ». Once accepted, I had to do
+        recognize my previously completed courses as much as possible.<br>I managed to have my first certificate recognized without too much
+        difficulty. Once my fall 2022 course is completed and my certificate completed at the same time, I will be able to do
+        recognize all my second certificate courses.<br>Finally, I will have 12 courses left to complete my course
+        university.
+    </p>
+    <h4>Here is my remaining academic profile - Bachelor of Computer Science and Software Engineering</h4>
+
+    <table class="cheminement">
+        <thead>
+        <tr>
+            <th class="gauche">Session</th>
+            <th>Title of the course</th>
+            <th class="gauche">Result</th>
+        </tr>
+        </thead>
+        <tbody>
+        <tr class="info-cours">
+            <td class="gauche">Winter 2023</td>
+            <td class="nom-cours">Organization, management and information system</td>
+            <td class="gauche">
+                <div>
+                    <div><p class="note">77%</p></div>
+                    <div><p class="note">B+</p></div>
+                </div>
+            </td>
+        </tr>
+        <tr class="info-cours">
+            <td class="gauche">Winter 2023</td>
+            <td class="nom-cours">Economics of information technology</td>
+            <td class="gauche">
+                <div>
+                    <div><p class="note">77%</p></div>
+                    <div><p class="note">B</p></div>
+                </div>
+            </td>
+        </tr>
+        <tr class="info-cours">
+            <td class="gauche">Fall 2023</td>
+            <td class="nom-cours">Use and administration of computer systems (basic Linux)</td>
+            <td class="gauche">Coming soon...</td>
+        </tr>
+        <tr class="info-cours">
+            <td class="gauche">Fall 2023</td>
+            <td class="nom-cours">Language course - English Pronunciation - Intermediate Level</td>
+            <td class="gauche">B / 79%</td>
+        </tr>
+        </tbody>
+    </table>
+
+
 
     <div class="passion">
         <h4>My sporting passions :</h4>

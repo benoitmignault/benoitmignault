@@ -142,7 +142,7 @@
         </tbody>
     </table>
 
-    <h4>Here is my academic profile - Advanced Certificate in Software Development</h4>
+    <h4>Here is my academic profile - Advanced Certificate in Software Development</h4> - <span>Successful !!!</span></h4>
     
     <table class="cheminement">
         <thead>
@@ -240,7 +240,7 @@
         <tr class="info-cours">
             <td class="gauche">Fall 2023</td>
             <td class="nom-cours">Use and administration of computer systems (basic Linux)</td>
-            <td class="gauche">Coming soon...</td>
+            <td class="gauche">Almost finish...</td>
         </tr>
         <tr class="info-cours">
             <td class="gauche">Fall 2023</td>
@@ -249,9 +249,7 @@
         </tr>
         </tbody>
     </table>
-
-
-
+    
     <div class="passion">
         <h4>My sporting passions :</h4>
         <ul>

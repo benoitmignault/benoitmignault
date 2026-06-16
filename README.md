@@ -112,7 +112,7 @@ I'm currently expanding my Golf League Management Platform by implementing:
 
 ## Connect With Me
 
-🌐 Website: https://benoitmignault.ca
+🌐 Website: https://benoitmignault.ca/english/english.html
 
 📫 Feel free to connect and discuss web development, software architecture, automation, analytics, or sports technology projects.
 

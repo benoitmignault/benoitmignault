@@ -15,6 +15,7 @@ My experience spans from business analysis and process optimization to the desig
 - 🌐 REST API integration and development
 - 🗄️ Database design and management
 - ⛳ Creator and developer of a Golf League Management Platform for a competitive golf league in the Montérégie region
+- 🃏 Creator and developer of a poker tournament timer and statistics platform, tracking my Friday-night poker games since 2011
 
 ---
 
@@ -23,6 +24,7 @@ My experience spans from business analysis and process optimization to the desig
 ### Front-End
 
 - React
+- Vite
 - JavaScript (ES6+)
 - jQuery
 - HTML5
@@ -33,8 +35,9 @@ My experience spans from business analysis and process optimization to the desig
 ### Back-End
 
 - PHP
+- Python
 - REST APIs
-- MySQL
+- MySQL / MariaDB
 - Authentication & Authorization
 - Session Management
 - Business Logic Development
@@ -43,6 +46,8 @@ My experience spans from business analysis and process optimization to the desig
 
 - Git
 - GitHub
+- GitKraken
+- VS Code
 - PHPMailer
 - JSON
 - Linux Hosting Environments
@@ -114,6 +119,9 @@ I'm currently working on two main projects:
 - 🌐 **benoitmignault.ca — Website 2.0 (in progress)** — rebuilding my personal website from scratch with React front-ends and a PHP/MySQL API, one tool at a time:
   - ⏱️ Poker tournament timer — live: [poker.benoitmignault.ca/timer-poker](https://poker.benoitmignault.ca/timer-poker/)
   - 📊 Poker statistics — 15 years of Friday-night poker results, currently in development
+
+- 🐍 **P99 Loot Analyzer** (Python) — a log-analysis tool I built for EverQuest Project 1999: it parses game log files and compiles loot and drop statistics, which I use to update and improve the Project 1999 Wiki
+  - 🔗 Repo: [p99-loot-analyzer](https://github.com/benoitmignault/p99-loot-analyzer)
 
 ---
 

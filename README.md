@@ -96,6 +96,14 @@ The platform centralizes all league operations through a modern web interface an
 
 ---
 
+## Building with AI
+
+Most of my development happens outside of my day job, in the time I can carve out in the evenings. I build with AI assistants — **Muse, ChatGPT and GitHub Copilot** — as learning and pair-programming companions: they help me explore new patterns, review my code and keep momentum, while I remain the one who designs, decides and writes.
+
+Much of what I'm currently modernizing is my own pre-2022 work: web applications I designed and coded entirely by hand, in an era of hand-rolled PHP/MySQL monoliths. The 2.0 rebuilds re-architect that code into React front-ends and clean APIs — same business logic, earned the hard way, brought up to modern standards.
+
+---
+
 ## Current Focus
 
 I'm currently working on two main projects:
@@ -106,7 +114,6 @@ I'm currently working on two main projects:
 - 🌐 **benoitmignault.ca — Website 2.0 (in progress)** — rebuilding my personal website from scratch with React front-ends and a PHP/MySQL API, one tool at a time:
   - ⏱️ Poker tournament timer — live: [poker.benoitmignault.ca/timer-poker](https://poker.benoitmignault.ca/timer-poker/)
   - 📊 Poker statistics — 15 years of Friday-night poker results, currently in development
-
 
 ---
 

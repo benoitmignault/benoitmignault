@@ -98,15 +98,15 @@ The platform centralizes all league operations through a modern web interface an
 
 ## Current Focus
 
-I'm currently expanding my Golf League Management Platform by implementing:
+I'm currently working on two main projects:
 
-- Modern React interfaces
-- Additional API integrations
-- Advanced statistics and analytics
-- Enhanced user experience
-- Automated league management workflows
+- ⛳ **Golf League Management Platform** — expanding the platform with modern React interfaces, additional API integrations, advanced statistics and analytics, and automated league management workflows
+  - 🌐 Live: [golf.benoitmignault.ca](https://golf.benoitmignault.ca/league-monteregie/)
 
-- 🌐 Website: https://golf.benoitmignault.ca/league-monteregie/
+- 🌐 **benoitmignault.ca — Website 2.0 (in progress)** — rebuilding my personal website from scratch with React front-ends and a PHP/MySQL API, one tool at a time:
+  - ⏱️ Poker tournament timer — live: [poker.benoitmignault.ca/timer-poker](https://poker.benoitmignault.ca/timer-poker/)
+  - 📊 Poker statistics — 15 years of Friday-night poker results, currently in development
+
 
 ---
 
